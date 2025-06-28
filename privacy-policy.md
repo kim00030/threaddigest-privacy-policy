@@ -34,4 +34,5 @@ When you send feedback through ThreadDigest’s in-app feedback form, the text y
 
 ## Contact
 
-If you have questions about this policy, please reach out to us at **[your email or contact form link here]**.
+If you have questions about this policy, please reach out to us using our **[contact form](https://forms.gle/LvNBaoqzbFKNx6hRA)**.
+
