@@ -35,5 +35,5 @@ When you send feedback through ThreadDigest’s in-app feedback form, the text y
 ## Contact
 
 If you have questions about this policy or your data, email us at **support@kuu-interactive.com**  
-or use our contact form: https://forms.gle/LvNBaoqzbFKNx6hRA
+or use our **[contact form](https://forms.gle/LvNBaoqzbFKNx6hRA)**.
 
